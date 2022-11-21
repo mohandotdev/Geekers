@@ -1,6 +1,7 @@
 import { loader } from "@monaco-editor/react";
 
-const monacoThemes = {
+const monacoThemes = 
+{
   active4d: "Active4D",
   "all-hallows-eve": "All Hallows Eve",
   amy: "Amy",
@@ -12,7 +13,9 @@ const monacoThemes = {
   "clouds-midnight": "Clouds Midnight",
   clouds: "Clouds",
   cobalt: "Cobalt",
+  cobalt2: "Cobalt2",
   dawn: "Dawn",
+  dracula: "Dracula",
   dreamweaver: "Dreamweaver",
   eiffel: "Eiffel",
   "espresso-libre": "Espresso Libre",
@@ -32,6 +35,7 @@ const monacoThemes = {
   "slush-and-poppies": "Slush and Poppies",
   "solarized-dark": "Solarized-dark",
   "solarized-light": "Solarized-light",
+  nord: "Nord",
   spacecadet: "SpaceCadet",
   sunburst: "Sunburst",
   "textmate--mac-classic-": "Textmate (Mac Classic)",

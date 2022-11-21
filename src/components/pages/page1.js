@@ -18,13 +18,13 @@ export default function page1() {
                 Level1_IO_Print Intial
               </h2>
             </div>
-            <Link to="/page1/ch1">
             <div class="grid justify-end">
+              <Link to="/page1/ch1">
                 <button class="text-gray-300 text-lg hover:shadow-ms1 bg-[#1C2333] p-2 rounded-lg">
                   Solve Now
                 </button>
+              </Link>
             </div>
-            </Link>
           </div>
           <div class="grid grid-cols-2 items-center rounded-lg bg-gray-700 h-22 px-12 hover:scale-105 duration-100">
             <div class="grid justify-start">
